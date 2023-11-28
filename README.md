@@ -1,5 +1,5 @@
 # MUSE
-Code and datasets for paper **MUSE: Multi-Knowledge Passing on the Edges, Boosting Knowledge Graph Completion**(ICASSP'2024, Under Review)
+Code and datasets for paper **MUSE: Multi-Knowledge Passing on the Edges, Boosting Knowledge Graph Completion**
 
 To run on different datasets, you can modify the parameters in main.py
 
